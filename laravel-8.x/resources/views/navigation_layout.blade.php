@@ -47,7 +47,7 @@ body{
     <h1>NAVIGATION</h1>
         <div  style="margin-top: 40px;">
             <a href="/dashboard"><button class="custom-button">Dashboard</button></a>
-            <a href="/login"><button class="custom-button">Registration</button></a>
+            <a href="/register"><button class="custom-button">Registration</button></a>
             
         </div>
     </div>
